@@ -6,21 +6,23 @@ ul {
   overflow: hidden;
   background-color: #345;
  }
+
 .right{
 	float:right;
     }
+
 li {
 	display:inline;
     }
-    
-  
- li a {
+
+li a {
   display:inline- block;
   color: white;
   padding: 14px 16px;
   text-decoration: none;
   }
- .container {
+ 
+.container {
   position: relative;
   width: 50%;
 }
