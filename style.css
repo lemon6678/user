@@ -1,8 +1,8 @@
 ul {
-  background-color: #0d6efd; /* สีพื้นหลัง */
-  color: white; /* สีข้อความ */
+  background-color: #0d6efd;
+  color: white; 
   padding: 10px;
-  list-style-type: none; /* ไม่ให้มีจุด */
+  list-style-type: none;
 }
 
 li {
