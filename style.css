@@ -1,12 +1,15 @@
-<head>
 <style>
-ul {
-  background-color: #0d6efd;
-}
+    ul {
+      background-color: #0d6efd;
+      color: white;
+      padding: 10px;
+      list-style-type: none;
+    }
 
+    li {
+      padding: 5px;
+    }
   </style>
-  </head>
-
   
 
 
