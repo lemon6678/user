@@ -1,8 +1,12 @@
+<head>
+ <link rel="stylesheet" href="style.css">
 <style>
 ul {
-  background-color: #000;
+  background-color: $indigo-900;
+}
 
   </style>
+  </head>
 
   
 
