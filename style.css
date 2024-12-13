@@ -1,0 +1,10 @@
+ul {
+  background-color: #0d6efd; /* สีพื้นหลัง */
+  color: white; /* สีข้อความ */
+  padding: 10px;
+  list-style-type: none; /* ไม่ให้มีจุด */
+}
+
+li {
+  padding: 5px;
+}
